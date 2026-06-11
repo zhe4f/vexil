@@ -1,4 +1,3 @@
-<img width="786" height="693" alt="5" src="https://github.com/user-attachments/assets/c88a6093-b0b2-42ca-ac81-48fe59029792" />
 # Vexil
 
 > 多连接并发 · 断点续传 · TLS 加密 · 跨平台
