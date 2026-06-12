@@ -3,9 +3,9 @@
 [English](#english) | [中文](#中文) | [Demo](#screenshots)
 
 <img width="500" alt="a" src="https://github.com/user-attachments/assets/1740dddb-e1c1-4301-bfe3-ff7fdbf497af" />
-
+<br />
 <img width="500" alt="b" src="https://github.com/user-attachments/assets/f985a009-6278-44b5-ae0a-d9159e4ebfa8" />
-
+<br />
 <img width="500" alt="c" src="https://github.com/user-attachments/assets/88392cbf-234a-4f9f-8f1d-494232aff21b" />
 
 ---
