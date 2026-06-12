@@ -1,8 +1,10 @@
 # Vexil
 
 [English](#english) | [中文](#中文)
-<img width="1577" height="1388" alt="send" src="https://github.com/user-attachments/assets/478b77b7-0576-4f96-a2ed-1ff923f95385" />
 
+<img width="1577" height="1388" alt="send" src="https://github.com/user-attachments/assets/478b77b7-0576-4f96-a2ed-1ff923f95385" />
+<img width="1577" height="1388" alt="receiver" src="https://github.com/user-attachments/assets/380da104-f479-43cc-b811-61ce0bc49b27" />
+<img width="1577" height="1388" alt="setting" src="https://github.com/user-attachments/assets/d36ef81b-5f09-4a3a-9646-c5515252dc0e" />
 
 ---
 
