@@ -2,11 +2,11 @@
 
 [English](#english) | [中文](#中文) | [Demo](#screenshots)
 
-<img width="1578" height="1390" alt="a" src="https://github.com/user-attachments/assets/1740dddb-e1c1-4301-bfe3-ff7fdbf497af" />
+<img width="500" alt="a" src="https://github.com/user-attachments/assets/1740dddb-e1c1-4301-bfe3-ff7fdbf497af" />
 
-<img width="1578" height="1390" alt="b" src="https://github.com/user-attachments/assets/f985a009-6278-44b5-ae0a-d9159e4ebfa8" />
+<img width="500" alt="b" src="https://github.com/user-attachments/assets/f985a009-6278-44b5-ae0a-d9159e4ebfa8" />
 
-<img width="1578" height="1390" alt="c" src="https://github.com/user-attachments/assets/88392cbf-234a-4f9f-8f1d-494232aff21b" />
+<img width="500" alt="c" src="https://github.com/user-attachments/assets/88392cbf-234a-4f9f-8f1d-494232aff21b" />
 
 ---
 
@@ -101,11 +101,3 @@ Vexil 是一个高性能的局域网文件传输工具。通过多连接并发�
 - ⚙ 右上角齿轮进入设置
 
 ---
-
-## Demo
-
-<img width="500" alt="send" src="https://github.com/user-attachments/assets/478b77b7-0576-4f96-a2ed-1ff923f95385" />
-
-<img width="500" alt="receiver" src="https://github.com/user-attachments/assets/380da104-f479-43cc-b811-61ce0bc49b27" />
-
-<img width="500" alt="setting" src="https://github.com/user-attachments/assets/d36ef81b-5f09-4a3a-9646-c5515252dc0e" />
