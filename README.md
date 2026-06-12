@@ -1,6 +1,6 @@
 # Vexil
 
-[English](#english) | [中文](#中文) | [Demo](#screenshots)
+[English](#english) | [中文](#中文) 
 
 <img width="500" alt="a" src="https://github.com/user-attachments/assets/1740dddb-e1c1-4301-bfe3-ff7fdbf497af" />
 <br />
