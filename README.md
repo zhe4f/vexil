@@ -10,6 +10,8 @@ Click to Download:
 <br />
 [vexil-mac v1.0.0](https://github.com/zhe4f/vexil/releases/download/v1.0.0/vexil-mac.app.zip)
 <br />
+[vexil-linux v1.0.0](https://github.com/zhe4f/vexil/releases/download/v1.0.0/vexil-linux)
+<br />
 <br />
 <img width="500" height="450" alt="a" src="https://github.com/user-attachments/assets/3b993f9a-8239-47b6-863b-35e0e38f0088" />
 <br />
