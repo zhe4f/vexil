@@ -111,7 +111,7 @@ class _ReceiveProgressScreenState extends ConsumerState<ReceiveProgressScreen> {
                 Text('${formatSize(_sent)} / ${formatSize(_total)}'),
                 const SizedBox(height: 8),
                 Text(formatSpeed(_speedMBps * 1024 * 1024)),
-                if (_eta > 0) Text('剩余 ${formatETA(_eta)}'),
+                if (_eta > 0) Text('${loc.remaining}${formatETA(_eta)}'),
               ],
               const SizedBox(height: 16),
               if (_peerName.isNotEmpty) Text('${loc.from}: $_peerName'),
