@@ -4,6 +4,7 @@ import 'package:shared_preferences/shared_preferences.dart';
 import 'package:permission_handler/permission_handler.dart';
 import '../l10n/app_localizations.dart';
 import '../providers/locale_provider.dart';
+import 'package:url_launcher/url_launcher.dart';
 
 class SettingsScreen extends ConsumerStatefulWidget {
   const SettingsScreen({super.key});
@@ -192,6 +193,47 @@ class _SettingsScreenState extends ConsumerState<SettingsScreen> {
             subtitle: Text(loc.tlsDesc),
             value: _tlsEnabled,
             onChanged: (v) { setState(() => _tlsEnabled = v); _saveBool('tls_enabled', _tlsEnabled); },
+          ),
+          const SizedBox(height: 24),
+          Divider(height: 1, color: Theme.of(context).dividerColor.withAlpha(50)),
+          const SizedBox(height: 16),
+          Center(
+            child: Column(
+              children: [
+                Text(
+                  'Vexil v1.0.0',
+                  style: TextStyle(
+                    fontSize: 13,
+                    color: Theme.of(context).colorScheme.onSurface.withAlpha(100),
+                  ),
+                ),
+                const SizedBox(height: 4),
+                GestureDetector(
+                  onTap: () async {
+                    final uri = Uri.parse('https://github.com/zhe4f');
+                    if (await canLaunchUrl(uri)) {
+                      await launchUrl(uri, mode: LaunchMode.externalApplication);
+                    }
+                  },
+                  child: Text(
+                    'Made with ❤️ by zhe4f',
+                    style: TextStyle(
+                      fontSize: 13,
+                      color: Theme.of(context).colorScheme.primary,
+                      decoration: TextDecoration.underline,
+                    ),
+                  ),
+                ),
+                const SizedBox(height: 4),
+                Text(
+                  'MIT License',
+                  style: TextStyle(
+                    fontSize: 12,
+                    color: Theme.of(context).colorScheme.onSurface.withAlpha(80),
+                  ),
+                ),
+              ],
+            ),
           ),
         ],
       ),
