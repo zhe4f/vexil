@@ -43,6 +43,7 @@ class AppLocalizations {
     'waitingConnection': {'en': 'Waiting for connection...', 'zh': '等待连接中...'},
     'saveTo': {'en': 'Save to', 'zh': '保存到'},
     'from': {'en': 'From', 'zh': '来自'},
+    'remaining': {'en': 'remaining ', 'zh': '剩余 '},
 
     // 手动连接弹窗
     'manualConnectTitle': {'en': 'Enter Address', 'zh': '手动输入目标'},
@@ -208,6 +209,7 @@ class AppLocalizations {
   String get requestPermissionAndRetry => _localizedValues['requestPermissionAndRetry']![locale.languageCode] ?? '';
   String get switchedToInternal => _localizedValues['switchedToInternal']![locale.languageCode] ?? '';
   String get error => _localizedValues['error']![locale.languageCode] ?? '';
+  String get remaining => _localizedValues['remaining']![locale.languageCode] ?? '';
 }
 
 class AppLocalizationsDelegate extends LocalizationsDelegate<AppLocalizations> {
