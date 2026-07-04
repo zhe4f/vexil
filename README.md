@@ -4,7 +4,9 @@
 <br />
 Click to Download:
 <br />
-[vexil-win v1.0.0](https://github.com/zhe4f/vexil/releases/download/v1.0.0/vexil-windows.exe)
+[vexil-windows v1.0.0](https://github.com/zhe4f/vexil/releases/download/v1.0.0/vexil-windows.exe)
+<br />
+[vexil-android v1.0.0](https://github.com/zhe4f/vexil/releases/download/v1.0.0/vexil-android.apk)
 <br />
 [vexil-mac v1.0.0](https://github.com/zhe4f/vexil/releases/download/v1.0.0/vexil-mac.app.zip)
 <br />
