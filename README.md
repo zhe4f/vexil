@@ -1,7 +1,10 @@
 # Vexil
 [English](#english) | [中文](#中文) 
+
+<br />
 <br />
 Click to Download:
+<br />
 [vexil-win v1.0.0](https://github.com/zhe4f/vexil/releases/download/v1.0.0/vexil-windows.exe)
 <br />
 [vexil-mac v1.0.0](https://github.com/zhe4f/vexil/releases/download/v1.0.0/vexil-mac.app.zip)
