@@ -1,15 +1,15 @@
 # Vexil
 [English](#english) | [中文](#中文) 
 
-<img width="1578" height="1390" alt="a" src="https://github.com/user-attachments/assets/3b993f9a-8239-47b6-863b-35e0e38f0088" />
+<img width="500" height="450" alt="a" src="https://github.com/user-attachments/assets/3b993f9a-8239-47b6-863b-35e0e38f0088" />
 <br />
-<img width="1578" height="1390" alt="b" src="https://github.com/user-attachments/assets/9c8a58be-342c-49a2-9faf-44dbf4a173d0" />
+<img width="500" height="450" alt="b" src="https://github.com/user-attachments/assets/9c8a58be-342c-49a2-9faf-44dbf4a173d0" />
 <br />
-<img width="1578" height="1390" alt="c" src="https://github.com/user-attachments/assets/383dbcde-78a1-4635-92e4-f645a74a9b3c" />
+<img width="500" height="450" alt="c" src="https://github.com/user-attachments/assets/383dbcde-78a1-4635-92e4-f645a74a9b3c" />
 <br />
-<img width="912" height="844" alt="d" src="https://github.com/user-attachments/assets/cad804a1-e48c-4de4-a6f7-27a7fbcee70b" />
+<img width="500" height="450" alt="d" src="https://github.com/user-attachments/assets/cad804a1-e48c-4de4-a6f7-27a7fbcee70b" />
 <br />
-<img width="1578" height="1390" alt="e" src="https://github.com/user-attachments/assets/61645edb-f4dc-4f13-9b8c-3eda88ebffa7" />
+<img width="500" height="450" alt="e" src="https://github.com/user-attachments/assets/61645edb-f4dc-4f13-9b8c-3eda88ebffa7" />
 
 ---
 
