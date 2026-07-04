@@ -52,9 +52,8 @@ Vexil is a high-performance LAN file transfer tool. Through optimizations like m
 | Multi-connection concurrency | ✅ | ❌ | ❌ | ❌ |
 | Resumable transfer | ✅ | ❌ | ❌ | ❌ |
 | SHA-256 checksum | ✅ | ❌ | ❌ | ❌ |
-| TLS encryption | ✅ | ✅ | - | ❌ |
-| CLI mode | ✅ | ❌ | ❌ | ❌ |
 | Tunable performance | ✅ | ❌ | ❌ | ❌ |
+| TLS encryption | ✅ | ✅ | - | ❌ |
 
 ---
 
@@ -98,9 +97,8 @@ Vexil 是一个高性能的局域网文件传输工具。通过多连接并发�
 | 多连接并发 | ✅ | ❌ | ❌ | ❌ |
 | 断点续传 | ✅ | ❌ | ❌ | ❌ |
 | SHA-256 校验 | ✅ | ❌ | ❌ | ❌ |
-| TLS 加密 | ✅ | ✅ | - | ❌ |
-| CLI 模式 | ✅ | ❌ | ❌ | ❌ |
 | 性能参数可调 | ✅ | ❌ | ❌ | ❌ |
+| TLS 加密 | ✅ | ✅ | - | ❌ |
 
 ---
 
