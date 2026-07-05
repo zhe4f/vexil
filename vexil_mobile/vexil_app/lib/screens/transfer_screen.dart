@@ -274,28 +274,7 @@ class _TransferScreenState extends ConsumerState<TransferScreen> {
               child: Row(
                 children: [
                   Expanded(
-                    child: OutlinedButton.icon(
-                      onPressed: () async {
-                        try {
-                          final dir = await _getSaveDir();
-                          if (dir != null) {
-                            _startReceive(dir);
-                          }
-                        } catch (e) {
-                          if (context.mounted) {
-                            ScaffoldMessenger.of(context).showSnackBar(
-                              SnackBar(content: Text('${loc.error}: $e')),
-                            );
-                          }
-                        }
-                      },
-                      icon: const Icon(Icons.download),
-                      label: Text(loc.startReceive),
-                    ),
-                  ),
-                  const SizedBox(width: 12),
-                  Expanded(
-                    child: FilledButton.icon(
+                    child: OutlinedButton.icon(   // 手动发送变为透明框
                       onPressed: () async {
                         final result = await showDialog<Map<String, dynamic>>(
                           context: context,
@@ -320,6 +299,27 @@ class _TransferScreenState extends ConsumerState<TransferScreen> {
                       },
                       icon: const Icon(Icons.send),
                       label: Text(loc.manualSend),
+                    ),
+                  ),
+                  const SizedBox(width: 12),
+                  Expanded(
+                    child: FilledButton.icon(    // 开始接收变为填充框
+                      onPressed: () async {
+                        try {
+                          final dir = await _getSaveDir();
+                          if (dir != null) {
+                            _startReceive(dir);
+                          }
+                        } catch (e) {
+                          if (context.mounted) {
+                            ScaffoldMessenger.of(context).showSnackBar(
+                              SnackBar(content: Text('${loc.error}: $e')),
+                            );
+                          }
+                        }
+                      },
+                      icon: const Icon(Icons.download),
+                      label: Text(loc.startReceive),
                     ),
                   ),
                 ],
